@@ -8,6 +8,7 @@ public class ForEach {
         gamesList.add("Football");  
         gamesList.add("Cricket");  
         gamesList.add("E Sports");
+        gamesList.add("Lol");
         gamesList.add("Chess");  
         gamesList.add("Hocky");  
         System.out.println("------------Iterating by passing lambda expression--------------");  
